@@ -13,3 +13,5 @@ in the home directory. To start again, run `make clean` and to remove the output
 The output of the code for a domain wall configuration is illustrated below;
 
 ![gif](movie.gif)
+
+To make the gif after running the `./domain` executable, run `make gif`.
